@@ -1,0 +1,10 @@
+insert into avenger (id, character, name) values (1, 'Captain America', 'Steven Grant Rogers');
+insert into avenger (id, character, name) values (2, 'Iron Man', 'Tony E. Stark');
+insert into avenger (id, character, name) values (3, 'Thor', 'Thor Odinson');
+insert into avenger (id, character, name) values (4, 'Hulk', 'Dr Robert Bruce Banner');
+insert into avenger (id, character, name) values (5, 'Hawkeye', 'Clinton Francis Barton');
+insert into avenger (id, character, name) values (6, 'Spider-Man', 'Peter Benjamin Parker');
+insert into avenger (id, character, name) values (7, 'Ant-Man', 'Dr. Henry Jonathan Pym');
+insert into avenger (id, character, name) values (8, 'Quicksilver', 'Pietro Maximoff');
+insert into avenger (id, character, name) values (9, 'Scarlet Witch', 'Wanda Maximoff');
+insert into avenger (id, character, name) values (10, 'Black Panther', 'T''Challa');
